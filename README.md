@@ -13,12 +13,12 @@ then
 cd StickerSmash
 ```
 
-Step 2 - install packages
+Step 2 - Install packages
 ```bash
 npm install
 ```
 
-step 3 - run the app
+step 3 - Run the app
 
 ```bash
 npx expo start
