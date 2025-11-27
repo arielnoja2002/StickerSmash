@@ -1,6 +1,6 @@
 # StickerSmash By Ariel M. Noja
 
-## Introduction - Setup your StickerSmash
+### Introduction - Setup your StickerSmash
 Follow this step the step by step instrunction :)
 
 Step 1 - Clone the StickerSmash
