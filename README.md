@@ -3,12 +3,22 @@
 ## Introduction - Setup your StickerSmash
 Follow this step the step by step instrunction :)
 
-Step 1 - install packages
+Step 1 - Clone the StickerSmash
+```bash
+git clone https://github.com/arielnoja2002/StickerSmash.git
+```
+
+then
+```bash
+cd StickerSmash
+```
+
+Step 2 - install packages
 ```bash
 npm install
 ```
 
-step 2 - run the app
+step 3 - run the app
 
 ```bash
 npx expo start
